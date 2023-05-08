@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/login-with-metamask-demo/static/css/main.69d495d2.chunk.css",
-    "main.js": "/login-with-metamask-demo/static/js/main.3de43c38.chunk.js",
-    "main.js.map": "/login-with-metamask-demo/static/js/main.3de43c38.chunk.js.map",
-    "runtime-main.js": "/login-with-metamask-demo/static/js/runtime-main.6f61a966.js",
-    "runtime-main.js.map": "/login-with-metamask-demo/static/js/runtime-main.6f61a966.js.map",
-    "static/js/2.01bc1491.chunk.js": "/login-with-metamask-demo/static/js/2.01bc1491.chunk.js",
-    "static/js/2.01bc1491.chunk.js.map": "/login-with-metamask-demo/static/js/2.01bc1491.chunk.js.map",
-    "index.html": "/login-with-metamask-demo/index.html",
-    "static/css/main.69d495d2.chunk.css.map": "/login-with-metamask-demo/static/css/main.69d495d2.chunk.css.map",
-    "static/js/2.01bc1491.chunk.js.LICENSE.txt": "/login-with-metamask-demo/static/js/2.01bc1491.chunk.js.LICENSE.txt",
-    "static/media/LOGO.0b6c0854.png": "/login-with-metamask-demo/static/media/LOGO.0b6c0854.png",
-    "static/media/LOGOTR.0b6c0854.png": "/login-with-metamask-demo/static/media/LOGOTR.0b6c0854.png",
-    "static/media/Login.css": "/login-with-metamask-demo/static/media/bg.efa2a6a0.png",
-    "static/media/Profile.css": "/login-with-metamask-demo/static/media/profile.2a8831ce.jpg"
+    "main.css": "/static/css/main.0e7e6970.chunk.css",
+    "main.js": "/static/js/main.e33ecf45.chunk.js",
+    "main.js.map": "/static/js/main.e33ecf45.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.81fdc3e1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.81fdc3e1.js.map",
+    "static/js/2.1b1896cc.chunk.js": "/static/js/2.1b1896cc.chunk.js",
+    "static/js/2.1b1896cc.chunk.js.map": "/static/js/2.1b1896cc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0e7e6970.chunk.css.map": "/static/css/main.0e7e6970.chunk.css.map",
+    "static/js/2.1b1896cc.chunk.js.LICENSE.txt": "/static/js/2.1b1896cc.chunk.js.LICENSE.txt",
+    "static/media/LOGOTR.0b6c0854.png": "/static/media/LOGOTR.0b6c0854.png",
+    "static/media/PENALDO.98d36470.png": "/static/media/PENALDO.98d36470.png",
+    "static/media/Profile.css": "/static/media/banner.a614afff.png",
+    "static/media/Login.css": "/static/media/bg.efa2a6a0.png",
+    "static/media/pdfpic.32e8b1a1.jpg": "/static/media/pdfpic.32e8b1a1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f61a966.js",
-    "static/js/2.01bc1491.chunk.js",
-    "static/css/main.69d495d2.chunk.css",
-    "static/js/main.3de43c38.chunk.js"
+    "static/js/runtime-main.81fdc3e1.js",
+    "static/js/2.1b1896cc.chunk.js",
+    "static/css/main.0e7e6970.chunk.css",
+    "static/js/main.e33ecf45.chunk.js"
   ]
 }
